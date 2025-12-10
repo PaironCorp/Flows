@@ -7,3 +7,5 @@ console.log(search("a", data));
 
 console.log("Search started...");
 
+console.log(search("ap", data));
+
