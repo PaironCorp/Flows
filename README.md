@@ -11,3 +11,5 @@ node test.js
 - Search in array
 - Limit results
 - Input validation
+
+// Minor refactor and cleanup
