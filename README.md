@@ -5,3 +5,4 @@ test.js
 # Simple Search Service  
 Small utility for string search in a dataset.
 
+node test.js
