@@ -6,3 +6,8 @@ test.js
 Small utility for string search in a dataset.
 
 node test.js
+
+
+- Search in array
+- Limit results
+- Input validation
