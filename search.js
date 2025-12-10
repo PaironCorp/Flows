@@ -14,6 +14,8 @@ return data
 
 
 //parametrest
+return results.slice(0, limit);
+
  function search(query, data, limit = 10) {
 
 
