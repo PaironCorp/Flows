@@ -4,3 +4,6 @@ const data = require("./data.json");
 
 
 console.log(search("a", data));
+
+console.log("Search started...");
+
