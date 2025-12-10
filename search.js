@@ -3,3 +3,4 @@ function search(query, data) {
 }
 
 module.exports = search;
+// Basic search function
