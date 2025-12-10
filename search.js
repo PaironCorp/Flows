@@ -22,3 +22,5 @@ if (!Array.isArray(data)) return [];
 
 // Basic search function
 // Sort results alphabetically
+
+try { ... } catch(e) { return []; }
