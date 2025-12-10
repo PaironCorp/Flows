@@ -6,6 +6,11 @@ function search(query, data) {
   return data.filter(item => item.toLowerCase().includes(query.toLowerCase()));
 }
 
-module.exports = search;
+module.exports = search; 
+
+return data
+  .filter(...)
+  .sort();
+
 
 // Basic search function
