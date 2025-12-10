@@ -17,7 +17,8 @@ return data
 return results.slice(0, limit);
 
  function search(query, data, limit = 10) {
-
+// typers
+if (!Array.isArray(data)) return [];
 
 // Basic search function
 // Sort results alphabetically
