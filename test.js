@@ -9,3 +9,7 @@ console.log("Search started...");
 
 console.log(search("ap", data));
 
+
+console.time("search");
+...
+console.timeEnd("search");
