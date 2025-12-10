@@ -13,5 +13,9 @@ return data
   .sort();
 
 
+//parametrest
+ function search(query, data, limit = 10) {
+
+
 // Basic search function
 // Sort results alphabetically
