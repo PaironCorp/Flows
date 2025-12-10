@@ -24,3 +24,6 @@ if (!Array.isArray(data)) return [];
 // Sort results alphabetically
 
 try { ... } catch(e) { return []; }
+
+
+console.log("query:", query);
